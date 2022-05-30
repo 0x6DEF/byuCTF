@@ -56,7 +56,7 @@ a flag [ 0rc4s-4r3-c00l ] i tried it and it worked
 ```
 
 ### Screenshot
-![img](https://github.com/0x6DEF/byuCTF/edit/main/byuCTF/Reverse-Engineering/fun-fact/fact.png)
+![fun-fact](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Reverse-Engineering/fun-fact/Pasted%20image%2020220529161444.png)
 
 
 
