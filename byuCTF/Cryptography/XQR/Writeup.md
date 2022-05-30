@@ -17,12 +17,7 @@ i solved this challenge with my teammate [0x3ashry] full respect for him please.
 
 ![XQR.png](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Cryptography/XQR/XQR.png)
 
-  XQR was a hard rated cryptography challange and it was in a whole
-
-another level.
-
-i solved this challenge with my teammate [<span>0x3ashry</span>] full respect for him please..
-<p>It doesn’t contain except one massive image contain thousands of QR Codes</p>
+It doesn’t contain except one massive image contain thousands of QR Codes
 
 ![massive.png](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Cryptography/XQR/massive.png)
 
