@@ -11,7 +11,7 @@ So I tried learning a new sorta-language, but I'm not very good at it and don't 
 and chicken.chn file
 ```
 
-![[chickenwords.png]]
+![chickenwords.png](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Reverse-Engineering/chicken/chickenwords.png)
 
    Opps, i don't know what is this chicken lol?..
 
@@ -33,7 +33,7 @@ and chicken.chn file
 
    [GithubTool](https://github.com/kosayoda/chickenpy)
 
-![[Capture.png]]
+![tool](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Reverse-Engineering/chicken/Capture.png)
 
   it translate the lines to be easier to read after i ran the tool and
 
