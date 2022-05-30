@@ -26,7 +26,7 @@ letters/specialchars & alt codes and symbols and loop on them with the symbols g
 
 so i made a small python script to automate this process >>.
 
-![[script.png]]
+![script](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Forensics/sticky-key/script.png)
 
 ```Solve.py
 
@@ -80,4 +80,4 @@ you can easily search for symbols translator,
 
 and put the given symbols and the site will return the flag simply
 
-![[translator.png]]
+![translator.png](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Forensics/sticky-key/translator.png)
