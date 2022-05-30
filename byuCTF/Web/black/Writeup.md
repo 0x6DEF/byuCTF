@@ -33,11 +33,11 @@ photos qr codes and be added in site source in inspector, so i
 
 collected all qr codes they were 8 photos
 
-![[partiesblack.png]]
+![qr_parties](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Web/black/partiesblack.png)
 
 and i combined them as a one valid QR Code, 
 
-         ![[combined.png]]
+![validQR](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Web/black/qrcodesBlack/combined.png)
 
 after i scanned it i got a url
 
@@ -55,13 +55,12 @@ Home Oh Native Land Canada*** looks like be a canada anthem maybe i
 
 just slaped it on google and first result was wiki article, and yeah
 
-it a canada anthem i compared the original anthem with my ones and i
+it a canada anthem
+
+![anthem](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Web/black/Pasted%20image%2020220529173208.png)
+
+i compared the original anthem with my ones and i
 
 re-arranged them to be a flag and i got Black Challenge Finally
 
-
 FLAG: byuctf{Oh Canada Our Home And Native Land}
-
-#### Screenshot:
-
-![[Pasted image 20220529173208.png]]
