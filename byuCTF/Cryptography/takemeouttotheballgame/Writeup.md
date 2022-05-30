@@ -52,7 +52,7 @@ challenge encoded and put it and it worked too and returned the flag
 
 :DD
 
-![[base.png]]
+![Base](https://b3r4bb1ts.com/byuctf/imgs/base.png)
 
 ```solve.py
 
