@@ -14,7 +14,7 @@ i download both and started with the img first i extracted the image metadata
 
 and i found an google drive url [GooleDrive](https://docs.google.com/document/d/1BnPoqSl7GQOST__5iR7Xv7lYB8kSIxFsLYSq9PXaJFY/edit)
 
-![[villainempty.png]]
+![villainempty.png](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Forensics/thevillain/villainempty.png)
 
 nothing interesting for the first time and the zip file required a password
 
@@ -24,13 +24,13 @@ and i started to copy the content once i highlighted the content for copying
 
 i saw there is a small sentence: Message for Astoria Villin
 
-![[astoria.png]]
+![astoria.png](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Forensics/thevillain/astoria.png)
 
 of course i started to search with this name in twitter/facebook
 
 and i found a fb account and twitter with this username [Facebook](https://www.facebook.com/astoria.villin) | [Twitter](https://twitter.com/AstoriaVillin)
 
-![[astoriafb-.png]]
+![astoriafb](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Forensics/thevillain/astoriafb-.png)
 
 discovering the account i stared to collect everything that can be used for password
 
@@ -53,4 +53,4 @@ FLAG: byuctf{b3t_Y0U_c4nt_f1nd_D33ZNU7S!}
 
 #### Screenshots:
 
-![[flag.png]]
+![flag](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Forensics/thevillain/flag.png)
