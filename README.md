@@ -13,7 +13,7 @@ b3R4BB1TS Team | 5th Place
 > 
 > Total Points: 2663
 
-# Total Challenges Solved: 7
+# Total Challenges Solved: 8
 
 	Challenge              | Category
 	---------              | --------
