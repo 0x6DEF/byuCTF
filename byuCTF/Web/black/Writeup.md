@@ -2,6 +2,8 @@
 ### ============
 
 
+## Challenge
+
 ```black
 One cool thing about Vue is that it's really hard to figure out what's going on in the page
 
