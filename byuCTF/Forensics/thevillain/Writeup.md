@@ -16,7 +16,7 @@ and i found an google drive url [GooleDrive](https://docs.google.com/document/d/
 
 ![villainempty.png](https://github.com/0x6DEF/byuCTF/blob/main/byuCTF/Forensics/thevillain/villainempty.png)
 
-nothing interesting for the first time and the zip file required a password
+nothing interesting for the first time and the zip file requires a password
 
 i fired pw cracker while it was running i returned to drive again
 
