@@ -21,7 +21,6 @@ b3R4BB1TS Team | 5th Place
 	Sticky Key             | Forensics/Steg
 	Black                  | Web
 	The Villain            | Forensics/Steg
-	Blue 3                 | Forensics/Steg
 	Chicken                | Reverse Engineering
 	takemeouttotheballgame | Cryptography
 	XQR                    | Cryptography
