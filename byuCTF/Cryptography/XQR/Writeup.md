@@ -9,7 +9,7 @@
 > 
 
 
-## Solution
+## Soluation
 
 XQR was a hard rated cryptography challange and it was in a whole another level.  
   
