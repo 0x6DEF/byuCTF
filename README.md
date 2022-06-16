@@ -7,7 +7,6 @@ Mohamed Adel,  AKA [Shr1mpy0x8]
 
 b3R4BB1TS Team | 5th Place
 
-> My Website: https://www.dev-adel.com/
 > 
 > Facebook: https://www.facebook.com/mo.adel0x3
 > 
