@@ -10,7 +10,7 @@ b3R4BB1TS Team | 5th Place
 > 
 > Facebook: https://www.facebook.com/mo.adel0x3
 > 
-> Total Points: 2663
+> My Total Points: 2663
 
 # Total Challenges Solved: 7
 
